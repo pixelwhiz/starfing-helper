@@ -12,7 +12,7 @@ std::atomic<bool> runFlag(false);
 std::thread runThread;
 
 int main(int argc, char *argv[])
-{00000
+{
     QApplication a(argc, argv);
     app w;
 
