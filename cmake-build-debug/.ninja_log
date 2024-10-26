@@ -1,0 +1,16 @@
+# ninja log v6
+7	703	7516296820300095	strafe-helper_autogen/timestamp	645426a2843b3b82
+714	3646	7516296821121916	CMakeFiles/strafe-helper.dir/main.cpp.obj	4461eb5d6c92e2d8
+7	703	7516296820300095	strafe-helper_autogen/mocs_compilation.cpp	645426a2843b3b82
+7	703	7516296820300095	D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/strafe-helper_autogen/timestamp	645426a2843b3b82
+3646	3863	7516296850443750	strafe-helper.exe	c95bcdbbddaf5316
+7	703	7516296820300095	D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/strafe-helper_autogen/mocs_compilation.cpp	645426a2843b3b82
+709	3449	7516296821074850	CMakeFiles/strafe-helper.dir/strafe-helper_autogen/mocs_compilation.cpp.obj	b48c11011a19a7e1
+718	3612	7516296821166089	CMakeFiles/strafe-helper.dir/app.cpp.obj	6d62f00b92f6eaa9
+7	615	7516298780681724	build.ninja	e57581ec69c62e67
+11	120	7516298781209469	strafe-helper_autogen/timestamp	645426a2843b3b82
+11	120	7516298781209469	strafe-helper_autogen/mocs_compilation.cpp	645426a2843b3b82
+11	120	7516298781209469	D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/strafe-helper_autogen/timestamp	645426a2843b3b82
+11	120	7516298781209469	D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/strafe-helper_autogen/mocs_compilation.cpp	645426a2843b3b82
+120	2144	7516298782298805	CMakeFiles/strafe-helper.dir/app.cpp.obj	6d62f00b92f6eaa9
+2144	2304	7516298802541006	strafe-helper.exe	c95bcdbbddaf5316

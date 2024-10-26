@@ -1,0 +1,9 @@
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/strafe-helper.dir
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/strafe-helper_autogen_timestamp_deps.dir
+D:/daffa/dev/@tools/strafe-helper/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/strafe-helper_autogen.dir

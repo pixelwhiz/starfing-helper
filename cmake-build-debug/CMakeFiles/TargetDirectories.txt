@@ -1,0 +1,9 @@
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/strafe-helper.dir
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/list_install_components.dir
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/install.dir
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/install/local.dir
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/install/strip.dir
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/strafe-helper_autogen_timestamp_deps.dir
+D:/daffa/dev/@tools/strafe-helper/cmake-build-debug/CMakeFiles/strafe-helper_autogen.dir

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ca82ae68d8b8976b7018.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "strafe-helper",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "strafe-helper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strafe-helper-Debug-1996f6ba4b77b507c97b.json",
+					"name" : "strafe-helper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strafe-helper_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strafe-helper_autogen-Debug-6d86ee0bee560e03c256.json",
+					"name" : "strafe-helper_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "strafe-helper_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strafe-helper_autogen_timestamp_deps-Debug-1bc45336aaa4153a206d.json",
+					"name" : "strafe-helper_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/daffa/dev/@tools/strafe-helper/cmake-build-debug",
+		"source" : "D:/daffa/dev/@tools/strafe-helper"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
