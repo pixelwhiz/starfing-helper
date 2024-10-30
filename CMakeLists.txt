@@ -20,12 +20,16 @@ set(PROJECT_SOURCES
         src/app.h
         src/app.ui
         resources.qrc
+        src/about.cpp
+        src/about.h
+        src/about.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(strafe-helper
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        src/about.h src/about.cpp src/about.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET strafe-helper APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

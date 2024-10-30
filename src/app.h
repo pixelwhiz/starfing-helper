@@ -3,6 +3,9 @@
 
 #include <QWidget>
 
+#include "about.h"
+
+
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class app;
@@ -14,10 +17,14 @@ class app : public QWidget
     Q_OBJECT
 
 public:
-    app(QWidget *parent = nullptr);
-    ~app();
+    explicit app(QWidget *parent = nullptr);
+    ~app() override;
+
+    private slots:
+    void on_pushButton_3_clicked();
 
 private:
     Ui::app *ui;
+    about* about_widget;
 };
 #endif // APP_H
