@@ -1,4 +1,4 @@
-#include "app.h"
+#include "src/app.h"
 #include <QApplication>
 #include <QPushButton>
 #include <windows.h>
@@ -25,12 +25,14 @@ int main(int argc, char *argv[])
                 runFlag = true;
                 runThread = std::thread(program, std::ref(runFlag));
                 startButton->setText("Stop");
+                startButton->setStyleSheet(QString("background-color: red;"));
             } else {
                 runFlag = false;
                 if (runThread.joinable()) {
                     runThread.join();
                 }
                 startButton->setText("Start");
+                startButton->setStyleSheet(QString("background-color: green;"));
             }
         });
     }
@@ -47,10 +49,15 @@ int main(int argc, char *argv[])
     return result;
 }
 
+void about() {
+
+}
+
 void initWindow(app &w) {
     w.setFixedSize(500, 300);
     w.setWindowIcon(QIcon(":/assets/icon.png"));
     w.setWindowTitle("Strafe Helper");
+    
     w.setWindowFlags(w.windowFlags() & ~Qt::WindowMaximizeButtonHint);
 }
 

@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>assets/icon.png</file>
+        <file>assets/fonts/PlusJakartaSans-Italic-VariableFont_wght.ttf</file>
+        <file>assets/fonts/PlusJakartaSans-VariableFont_wght.ttf</file>
     </qresource>
 </RCC>
