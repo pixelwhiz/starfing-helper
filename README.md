@@ -1,7 +1,7 @@
 
 ## 🎯 strafe-helper
 
-![preview]()
+![preview](https://github.com/pixelwhiz/strafe-helper/blob/master/assets/preview.png)
 
 Just a trick not a Cheat, This software allows you to straighten your aim in Valorant
 
