@@ -22,12 +22,14 @@ Just a trick not a Cheat, This software allows you to straighten your aim in Val
 ## Preview
 
 > ✅TURN ON `strafe-helper`
+
 <video controls>
   <source src="https://github.com/pixelwhiz/strafe-helper/blob/master/assets/preview1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 > ❎TURN OFF `strafe-helper`
+
 <video controls>
   <source src="https://github.com/pixelwhiz/strafe-helper/blob/master/assets/preview2.mp4" type="video/mp4">
   Your browser does not support the video tag.
