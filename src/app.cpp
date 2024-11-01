@@ -1,23 +1,20 @@
 #include "app.h"
 #include "./ui_app.h"
-#include "about.h"
 
-app::app(QWidget *parent)
-    : QWidget(parent)
+app::app(QWidget *parent) : QWidget(parent)
     , ui(new Ui::app)
-    , about_widget(nullptr)
 {
     ui->setupUi(this);
-    ui->lineEdit->setMaxLength(1);
+    ui->inputKeybind->setMaxLength(1);
+
+    setFixedSize(500, 300);
+    setWindowIcon(QIcon(":/assets/icon.png"));
+    setWindowTitle("Strafe Helper");
+    setWindowFlags(windowFlags() & ~Qt::WindowMaximizeButtonHint);
 }
 
 app::~app()
 {
     delete ui;
-}
-
-void app::on_pushButton_3_clicked() {
-    about_widget = new about(this);
-    about_widget->show();
 }
 

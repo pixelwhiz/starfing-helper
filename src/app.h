@@ -2,9 +2,9 @@
 #define APP_H
 
 #include <QWidget>
-
-#include "about.h"
-
+#include <QPushButton>
+#include <QLabel>
+#include <QLineEdit>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -20,11 +20,8 @@ public:
     explicit app(QWidget *parent = nullptr);
     ~app() override;
 
-    private slots:
-    void on_pushButton_3_clicked();
 
 private:
     Ui::app *ui;
-    about* about_widget;
 };
 #endif // APP_H

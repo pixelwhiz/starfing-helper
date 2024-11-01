@@ -44,7 +44,7 @@
    <property name="frameShadow">
     <enum>QFrame::Shadow::Raised</enum>
    </property>
-   <widget class="QLabel" name="label_2">
+   <widget class="QLabel" name="info">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -67,7 +67,7 @@ example: 0
     </property>
    </widget>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="home">
    <property name="geometry">
     <rect>
      <x>10</x>
@@ -83,7 +83,7 @@ example: 0
     <string>HOME</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_3">
+  <widget class="QPushButton" name="about">
    <property name="geometry">
     <rect>
      <x>100</x>
@@ -115,7 +115,7 @@ example: 0
     <string>Start</string>
    </property>
   </widget>
-  <widget class="QLineEdit" name="lineEdit">
+  <widget class="QLineEdit" name="inputKeybind">
    <property name="geometry">
     <rect>
      <x>210</x>
@@ -138,7 +138,7 @@ color: #000;</string>
     <set>Qt::AlignmentFlag::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QLabel" name="label">
+  <widget class="QLabel" name="textWalkKeybind">
    <property name="geometry">
     <rect>
      <x>110</x>
