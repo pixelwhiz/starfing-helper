@@ -100,7 +100,6 @@ void home(app &w) {
     pushButton->show();
 }
 
-
 void program(std::atomic<bool> &run, QLineEdit *inputLineEdit) {
     while (run) {
         if (GetAsyncKeyState(VK_LBUTTON) & 0x8000) {
