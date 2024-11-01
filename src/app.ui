@@ -59,11 +59,12 @@
     <property name="text">
      <string>Please follow these steps:
 1. Launch Valorant
-2. Open Settings &gt; Controls &gt; Actions
-3. Add new walk keybinds, example: 0
-4. Set the &quot;Walk Keybind&quot; below, same as step 3,
+2. Go to Settings &gt; Controls &gt; Actions
+3. Turn Off Toggle Walk
+4. Add new walk keybinds, example: 0
+5. Set the &quot;Walk Keybind&quot; below, same as step 3,
 example: 0
-4. Done, Start the program</string>
+6. Done, Start the program</string>
     </property>
    </widget>
   </widget>

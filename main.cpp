@@ -94,7 +94,7 @@ void home(app &w) {
     homeButton->setStyleSheet("background-color: #555;");
     aboutButton->setStyleSheet("background-color: transparent;");
 
-    info->setText("Please follow these steps:\n1. Launch Valorant\n2. Open Settings > Controls > Actions\n3. Add new walk keybinds, example: 0\n4. Set the 'Walk Keybind' below, same as step 3,\nnexample: 0\n4. Done, Start the program");
+    info->setText("Please follow these steps:\n1. Launch Valorant\n2. Go to Settings > Controls > Actions\n3. Turn Off Toggle Walk\n4. Add new walk keybinds, example: 0\n5. Set the 'Walk Keybind' below, same as step 3,\nexample: 0\n6. Done, Start the program");
     textWalkKeybind->show();
     inputKeybind->show();
     pushButton->show();
