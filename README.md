@@ -23,8 +23,8 @@ Just a trick not a Cheat, This software allows you to straighten your aim in Val
 
 > ✅TURN ON `strafe-helper`
 
-<video src="https://github.com/pixelwhiz/strafe-helper/blob/master/assets/preview2.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/5f5f1af4-f53a-43c9-bcdd-a8d8b0adbfd5
 
 > ❎TURN OFF `strafe-helper`
 
-<video src="https://github.com/pixelwhiz/strafe-helper/blob/master/assets/preview1.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/efedb2bf-6eb0-4b13-9632-136e98931b67
