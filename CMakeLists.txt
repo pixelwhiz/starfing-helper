@@ -9,6 +9,10 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -Wl,--out-implib,libstrafe-helper.dll.a -mwindows")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fno-stack-protector")
+
+
 set(CMAKE_PREFIX_PATH "D:/daffa/game/Qt/6.8.0/mingw_64/lib/cmake")
 
 find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
